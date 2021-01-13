@@ -20,6 +20,7 @@ Hello stranger, let's go :rocket:
 1. ❌ Finished the event Omnistack 11, web/app Be the Hero [#1](https://github.com/lazarok09/Omnistack11)
 2. ❌ Finished the "Mata Mosquito" [#2](https://github.com/lazarok09/AppMataMosquito)
 3. :books: Studyng all the stack of React and Node.
+4. :memo: Publish on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
 
 <!--END_SECTION:activity-->
 
