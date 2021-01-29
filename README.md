@@ -17,11 +17,12 @@ Hello stranger, let's go :rocket:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Finished the event Omnistack 11, web/app Be the Hero [#1](https://github.com/lazarok09/Omnistack11)
-2. ❌ Finished the "Mata Mosquito" [#2](https://github.com/lazarok09/AppMataMosquito)
-3. :books: Studyng all the stack of React and Node.
-4. :memo: Publish on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
-5. :blue_heart: Course Java POO on [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/aulas/java-poo/modulos/o-que-e-programacao-orientada-a-objetos/)
+1. :book: Finally created the readme for Happy [#3](https://github.com/lazarok09/Happy)
+2. ❌ Finished the event Omnistack 11, web/app Be the Hero [#1](https://github.com/lazarok09/Omnistack11)
+3. ❌ Finished the "Mata Mosquito" [#2](https://github.com/lazarok09/AppMataMosquito)
+4. :books: Studyng all the stack of React and Node.
+5. :memo: Publish on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
+6. :blue_heart: Course Java POO on [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/aulas/java-poo/modulos/o-que-e-programacao-orientada-a-objetos/)
 <!--END_SECTION:activity-->
 
 </details>
