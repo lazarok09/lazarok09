@@ -17,22 +17,20 @@ Hello stranger, let's go :rocket:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. :books: Studyng all the stack of React and Node.
+1. :books: Studyng ReactJS, NextJS, Styled-Components, Jest, Storybook, Strapi, HTML, CSS, TypeScript and JavaScript.
 2. ❌ I Finished the "Move.it" application by Rocketseat and used React + NextJS /Styled Components [#2](https://github.com/lazarok09/Move.it)
-3. ❌ I Finished Course Java POO on [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/aulas/java-poo/modulos/o-que-e-programacao-orientada-a-objetos/)
-4. ❌ I Finished the event Omnistack 11, web/app Be the Hero [#4](https://github.com/lazarok09/Omnistack11)
-5. ❌ I Finished the "Mata Mosquito" [#5](https://github.com/lazarok09/AppMataMosquito)
-6. :memo: Publish on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
+3. ❌ I Finished Course Java Object-oriented programming on [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/aulas/java-poo/modulos/o-que-e-programacao-orientada-a-objetos/)
+
+6. :memo: Publish about use a link to chat with Telegram on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
 <!--END_SECTION:activity-->
 
 </details>
  
 ## I am a student at the college [UNINABUCO](http://www.joaquimnabuco.edu.br/), Developer, and Runner!! :runner:
 
-- :memo: I  started a couple months ago my first course of web developer: [Go see it][course]!
-- :books: I’m currently learning Javascript, React, React Native, SQL, Node :scream:
-- :mag: I’m looking to do the [Rocketseat](https://rocketseat.com.br/) Bootcamp :rocket:
-- 🥅 2021 Goals: Contribute to Open Source projects. Got a new job as a developer. Publish one less app on playstore:checkered_flag:.
+- :memo: I  started in 06/2021 a course on Udemy about React stack. [Go see it][course]!
+- :books: I’m currently learning React and yours stack.
+- 🥅 2021 Goals: Be a React Developer
 - ⚡ Fun fact: I play harmonica and ukulele :sunglasses: [See it on YouTube #shame](https://youtu.be/yPhUzra9deA)
 ### Connect with me:
 
@@ -59,8 +57,7 @@ Hello stranger, let's go :rocket:
 
 
 [telegram]: https://web.telegram.org/#/im?p=@lazarok09
-[course]: https://www.udemy.com/course/web-completo/
-[rocketseat]: https://rocketseat.com.br/
+[course]:  https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/
 [linkedin]: https://linkedin.com/in/lazarok09
 [vscodeplaylist]: https://www.youtube.com/watch?v=tmgpF7Bn3_E
 [htmlplaylist]: https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
