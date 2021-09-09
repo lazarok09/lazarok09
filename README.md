@@ -11,9 +11,9 @@ Hello stranger, let's go :rocket:
 
 <div href="">
 
-<img height=250rem src="https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=radical" alt="github status" />
+<img height=200rem src="https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=radical" alt="github status" />
 
-<img height=250rem  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarok09&theme=radical" />
+<img height=200rem  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarok09&theme=radical" />
   
 
 </div>
