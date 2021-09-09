@@ -30,6 +30,11 @@ Hello stranger, let's go :rocket:
 📘 Studyng ReactJS, NextJS, Styled-Components, Jest, TypeScript
 </p>
 
+<span align=center>
+  
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+  
+</span>
 
 <p>
 <div align=end>
