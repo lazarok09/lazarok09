@@ -4,32 +4,44 @@ Hello stranger, let's go :rocket:
 <span align=center>
   
 [![Gmail](https://img.shields.io/badge/lazarok09-Gmail-red)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=lazarok09@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-connect-blue)](https://linkedin.com/in/lazarok09)
-  
+
 </span>
-<details>
-  <summary>:zap: GitHub Stats </summary>
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=dracula&hide_rank&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarok09&langs_count=8)](https://github.com/lazarok09/github-readme-stats)
 
-</details>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+:zap: GitHub Stats 
+
+<div href="">
+
+<img height=250rem src="https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=radical" alt="github status" />
+
+<img height=250rem  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarok09&theme=radical" />
   
+
+</div>
+<div> 
+  
+
+<br>
+<br>
+<hr>
+<div>
 <!--START_SECTION:activity-->
-1. :books: Studyng ReactJS, NextJS, Styled-Components, Jest, Storybook, Strapi, HTML, CSS, TypeScript and JavaScript.
-2. ❌ I Finished the "Move.it" application by Rocketseat and used React + NextJS /Styled Components [#2](https://github.com/lazarok09/Move.it)
-3. ❌ I Finished Course Java Object-oriented programming on [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/aulas/java-poo/modulos/o-que-e-programacao-orientada-a-objetos/)
+  <h1 align=center> 🐿️ What am i doing now ? </h1>
+<p align=center>
+📘 Studyng ReactJS, NextJS, Styled-Components, Jest, TypeScript
+</p>
 
-6. :memo: Publish about use a link to chat with Telegram on [Medium](https://lazarok09.medium.com/como-mandar-uma-mensagem-encaminhada-para-algu%C3%A9m-do-telegram-pela-url-fec0fbdc58c7)
-<!--END_SECTION:activity-->
 
-</details>
- 
-## I am a student at the college [UNINABUCO](http://www.joaquimnabuco.edu.br/), Developer, and Runner!! :runner:
+<p>
+<div align=end>
+  
+<img src="https://readme-jokes.vercel.app/api" />
+<img src="https://c.tenor.com/tYJREL-BRcAAAAAM/dean-winchester-supernatural.gif" />
+</div>
+</div>
 
+## Recent stuff
 - :memo: I  started in 06/2021 a course on Udemy about React stack. [Go see it][course]!
-- :books: I’m currently learning React and yours stack.
+- :books: I’m currently learning React and TypeScript.
 - 🥅 2021 Goals: Be a React Developer
 - ⚡ Fun fact: I play harmonica and ukulele :sunglasses: [See it on YouTube #shame](https://youtu.be/yPhUzra9deA)
 ### Connect with me:
