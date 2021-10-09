@@ -9,17 +9,22 @@ Hello stranger, let's go :rocket:
 
 :zap: GitHub Stats 
 
-<div href="">
+<div align=center href="">
 
 <img height=200rem src="https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=radical" alt="github status" />
 
 <img height=200rem  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarok09&theme=radical" />
-  
+ 
 
 </div>
 <div> 
   
-
+<div align=center>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazarok09&theme=radical&hide_border=true")](https://git.io/streak-stats)
+  
+</div>
+  
 <br>
 <br>
 <hr>
