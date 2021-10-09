@@ -9,7 +9,7 @@ Hello stranger, let's go :rocket:
 
 :zap: GitHub Stats 
 
-<div align=center href="">
+<div href="">
 
 <img height=200rem src="https://github-readme-stats.vercel.app/api?username=lazarok09&show_icons=true&theme=radical" alt="github status" />
 
@@ -19,11 +19,7 @@ Hello stranger, let's go :rocket:
 </div>
 <div> 
   
-<div align=center>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazarok09&theme=radical&hide_border=true")](https://git.io/streak-stats)
-  
-</div>
+
   
 <br>
 <br>
@@ -44,10 +40,18 @@ Hello stranger, let's go :rocket:
 <p>
 <div align=end>
   
+<div align=center>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazarok09&theme=omni&hide_border=true")](https://git.io/streak-stats)
+  
+</div>
+  
 <img src="https://readme-jokes.vercel.app/api" />
 <img src="https://c.tenor.com/tYJREL-BRcAAAAAM/dean-winchester-supernatural.gif" />
 </div>
 </div>
+  
+
 
 ## Recent stuff
 - :memo: I  started in 06/2021 a course on Udemy about React stack. [Go see it][course]!
