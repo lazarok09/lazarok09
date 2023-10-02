@@ -1,5 +1,7 @@
 <h3 align=center>
-Hello stranger, let's go :rocket:
+  
+Hello 😎
+  
 </h3>
 <span align=center>
   
@@ -26,9 +28,11 @@ Hello stranger, let's go :rocket:
 <hr>
 <div>
 <!--START_SECTION:activity-->
+  
   <h1 align=center> 🐿️ What am i doing now ? </h1>
-<p align=center>
-📘 Studyng ReactJS, NextJS, Styled-Components, Jest, TypeScript
+  
+<p>
+Developing great user experiencies at a Streaming Web App 📼 Under the top of the best tecnologies in web development, such as Next.js, Storybook and TypeScript 😋
 </p>
 
 <span align=center>
@@ -54,9 +58,9 @@ Hello stranger, let's go :rocket:
 
 
 ## Recent stuff
-- :memo: I  started in 06/2021 a course on Udemy about React stack. [Go see it][course]!
-- :books: I’m currently learning React and TypeScript.
-- 🥅 2021 Goals: Be a React Developer
+- :memo: I recentily got my first post-graduate diploma 🎉
+- :books: I’m currently learning more about CORS, Chromecast and OTT Industry.
+- 🥅 2024 Goals: Learn Golang 💙
 - ⚡ Fun fact: I play harmonica and ukulele :sunglasses: [See it on YouTube #shame](https://youtu.be/yPhUzra9deA)
 ### Connect with me:
 
