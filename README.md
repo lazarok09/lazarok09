@@ -32,7 +32,7 @@ Hello 😎
   <h1 align=center> 🐿️ What am i doing now ? </h1>
   
 <p>
-Developing great user experiencies at a Streaming Web App 📼 Under the top of the best tecnologies in web development, such as Next.js, Storybook and TypeScript 😋
+Enhancing User Experiences in a Cutting-Edge Streaming Web Application 📼 Leveraging the Pinnacle of Web Development Technologies, including Next.js, Storybook, and TypeScript 😋
 </p>
 
 <span align=center>
